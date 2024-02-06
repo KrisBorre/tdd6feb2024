@@ -1,5 +1,7 @@
 ﻿namespace Translator;
 
+// https://www.codeproject.com/Articles/5374061/Test-Driven-Development-in-Csharp
+
 public class Translator
 {
     private readonly Dictionary<string, List<string>> _translations;
